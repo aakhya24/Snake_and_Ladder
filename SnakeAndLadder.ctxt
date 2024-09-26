@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SnakeAndLadder
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=position
+comment2.target=int\ getSnakeIndex(int)
+comment3.params=position
+comment3.target=int\ getLadderIndex(int)
+comment4.params=position
+comment4.target=boolean\ isSnake(int)
+comment5.params=position
+comment5.target=boolean\ isLadder(int)
+comment6.params=playerPositions\ playerNames
+comment6.target=void\ displayBoard(int[],\ java.lang.String[])
+numComments=7
